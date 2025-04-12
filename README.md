@@ -2,6 +2,8 @@
 
 提取网页元素，调用 GPT-4o-mini 或 Deepseek 自动答题
 
+![Snipaste_2025-04-12_21-22-26](https://github.com/user-attachments/assets/f93b42a0-0acb-4e53-9256-015445ba8a19)
+
 关键词：6级会员、硬核会员、bilibili、B站、哔哩哔哩
 
 ## 安装
@@ -24,8 +26,6 @@
 - DeekSeek使用的官网API，GPT-4o-mini使用的第三方的网站
 
 ![Snipaste_2025-04-12_21-22-11](https://github.com/user-attachments/assets/2e12fb6b-2e94-44da-ab8b-15fcfa67c032)
-
-![Snipaste_2025-04-12_21-22-26](https://github.com/user-attachments/assets/f93b42a0-0acb-4e53-9256-015445ba8a19)
 
 ![Snipaste_2025-04-12_21-24-57](https://github.com/user-attachments/assets/1155de6d-6233-4b7c-8c3f-45d8078cee98)
 
