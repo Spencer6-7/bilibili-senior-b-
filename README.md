@@ -1,4 +1,4 @@
-# bilibili-senior-b-
+# bilibili-senior
 调用AI自动答题
 
 ## 安装
