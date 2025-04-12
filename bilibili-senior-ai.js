@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         B站答题
+// @name         B站硬核AI答题
 // @namespace    http://tampermonkey.net/
-// @version      2025-04-12
-// @description  try to take over the world!
-// @author       You
+// @version      1.0
+// @description  bilibili会员硬核答题
+// @author       BigShark667
 // @match        https://www.bilibili.com/h5/senior-newbie/qa
 // @run-at       document-end
 // @grant        GM_setValue
@@ -141,7 +141,6 @@
 
       const answer = await askGPT(question);
       const option = parseAnswer(answer);
-      console.log(option);
 
       if (!option) {
         console.log('无法解析答案，随机选择');
