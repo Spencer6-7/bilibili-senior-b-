@@ -1,5 +1,8 @@
-# bilibili-senior
-调用AI自动答题
+# bilibili-senior B站硬核会员答题
+
+提取网页元素，调用 GPT-4o-mini 或 Deepseek 自动答题
+
+关键词：6级会员、硬核会员、bilibili、B站、哔哩哔哩
 
 ## 安装
 
@@ -18,6 +21,7 @@
 - 选择`文史`，`知识`，`影视`这些适合AI回答的分类
 - 控制台可以查看进度
 - 间隔时间可以自己调一下：`const delayTime = getRandomDelay(5000, 10000);`，默认是5-10s中随机选择
+- DeekSeek使用的官网API，GPT-4o-mini使用的第三方的网站
 
 ![Snipaste_2025-04-12_21-22-11](https://github.com/user-attachments/assets/2e12fb6b-2e94-44da-ab8b-15fcfa67c032)
 
