@@ -29,3 +29,6 @@
 
 ![Snipaste_2025-04-12_21-24-57](https://github.com/user-attachments/assets/1155de6d-6233-4b7c-8c3f-45d8078cee98)
 
+
+修改自：[HCLonely/bili-senior-newbie-qa: 哔哩哔哩硬核会员搜题脚本](https://github.com/HCLonely/bili-senior-newbie-qa?tab=readme-ov-file)，答题页面对问题进行了混淆，源程序将所有问题拼在一块儿，不能定位当前问题。修改的地方：利用hash列表记录问题历史，能很好定位当前问题。
+
