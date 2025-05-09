@@ -9,7 +9,7 @@
 
 ## 安装
 
-[](https://greasyfork.org/fr/scripts/532626-b%E7%AB%99%E7%A1%AC%E6%A0%B8ai%E7%AD%94%E9%A2%98);
+[greasyfork bilibili](https://greasyfork.org/fr/scripts/532626-b%E7%AB%99%E7%A1%AC%E6%A0%B8ai%E7%AD%94%E9%A2%98)
 
 ## 使用
 
